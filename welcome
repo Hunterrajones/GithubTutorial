@@ -3,10 +3,7 @@ public class welcome
   public static void main (String args[])
   {
     Systen.out.println("Welcome");
-<<<<<<< HEAD
     Systen.out.println("This is a new thing");
     System.out.println("This will be reverted");
-=======
->>>>>>> parent of 1e7c539 (print statement for "this is a new thing")
   }
 }
