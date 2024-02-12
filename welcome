@@ -3,5 +3,6 @@ public class welcome
   public static void main (String args[])
   {
     Systen.out.println("Welcome");
+    Systen.out.println("This is a new thing");
   }
 }
